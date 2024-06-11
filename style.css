@@ -1,0 +1,44 @@
+*{
+  margin: 0%;
+}
+.header{
+  background-color: black;
+  color: aliceblue;
+  padding: 5px;
+}
+h1,ul,li{
+  display: inline-block;
+}
+h1{
+  margin-right: 60%;
+}
+li:hover{
+  color: grey;
+  cursor: pointer;
+}
+.box{
+  border-color: black;
+  border-width: 2px;
+  border-style: solid;
+  display: inline-block;
+}
+.courses{
+  text-align: center;
+  margin-top: 30px;
+}
+.detail{
+  margin-top: 80px;
+  background-color: black;
+  color: aliceblue;
+  padding: 5px;
+  
+}
+form{
+  margin-top: 20px;
+}
+.contact{
+  margin-top: 50px;
+}
+
+
+
